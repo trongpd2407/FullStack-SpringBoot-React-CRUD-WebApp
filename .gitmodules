@@ -1,0 +1,6 @@
+[submodule "react-frontend"]
+	path = react-frontend
+	url = https://github.com/trongpd2407/react-frontend
+[submodule "springboot_backend"]
+	path = springboot_backend
+	url = https://github.com/trongpd2407/springboot_backend
